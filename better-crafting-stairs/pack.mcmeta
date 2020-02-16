@@ -1,6 +1,6 @@
 {
   "pack": {
     "pack_format": 3,
-    "description": "Increase item yield when crafting stairs from 4 to 8."
+    "description": "Doubles item yield when crafting stairs."
   }
 }
