@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 3,
+    "description": "Triples item yield when crafting trapdoors. This excludes iron trapdoors."
+  }
+}
