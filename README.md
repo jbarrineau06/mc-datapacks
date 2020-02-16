@@ -1,1 +1,2 @@
 # mc-datapacks
+A collection of datapacks for Minecraft. These are datapacks my friends and I use on our servers. We try not to stray too far from vanilla gameplay. These datapacks aim to fix some pain points in the game.
